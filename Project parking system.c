@@ -4,7 +4,7 @@
 #include <time.h>
 
 
-int i,j;     /*Gloabal variables*/
+int i,j;     /*Global variables*/
 int main_exit;
 int park_row;
 int park_column;
@@ -29,7 +29,7 @@ space spaces[2][2];
 
 int main()
 {
-    char pass[10],password[20]="sujit";    /*For login by admin of system*/
+    char pass[10],password[20]="pass";    /*For login by admin of system*/
 
 
 
